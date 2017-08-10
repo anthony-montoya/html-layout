@@ -1,0 +1,32 @@
+
+.column {
+    height: 100vh;
+    width: 33.333%;
+    float: left;
+}
+
+.column1 {
+    background: lightblue;
+}
+
+.column2 {
+    background: lightseagreen;
+}
+
+.column3 {
+    background: lightgreen;
+    position: relative;
+}
+
+  .placeholder {
+     position: absolute;
+     bottom: 0;
+     color:white;
+     background: red;
+     height: 25%;
+     width: 100%;
+     text-align: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}  

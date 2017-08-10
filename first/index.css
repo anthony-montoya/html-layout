@@ -6,24 +6,24 @@
 
 .box {
     height: 90vh;
-    width: 25%;
+    width: 10%;
     background: #999;
     float: left;
 }
 
 .middle_box {
-    width: 50%;
+    width:80%;
     background: lightseagreen;
 }
 
 .top {
     width: 100%;
     background: #fff;
-    height: 70vh;
+    height: 85%;
 }
 
 .bottom {
-    height: 20vh;
+    height: 15%;
     width: 100%;
     background: #000;
 }
